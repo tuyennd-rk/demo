@@ -13,3 +13,4 @@ test block
 ## test port 22
 test lan 1
 test lan 2
+test lan 3
